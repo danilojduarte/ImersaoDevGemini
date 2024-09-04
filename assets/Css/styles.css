@@ -82,6 +82,7 @@ section button:hover {
 .item-resultado h2 {
     font-size: 1.5rem; /* Tamanho da fonte */
     color: #222831; /* Cor do texto */
+    text-align: center;
 }
 
 /* Estiliza os links dentro dos itens de resultado */
@@ -99,6 +100,16 @@ section button:hover {
 .descricao-meta {
     color: #45474B; /* Cor do texto */
     margin: 0.5rem 0; /* Margem acima e abaixo */
+}
+
+/* Estilos para imagens dentro da div resultado */
+.resultado-capa {
+    display: block;
+    margin: 0 auto;
+    width: 320px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.3); /* Adiciona uma sombra */
 }
 
 /* Estiliza o rodapé da página */
