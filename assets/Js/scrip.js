@@ -1,1 +1,2 @@
-console.log('ola mundo!')
+
+console.log(dados[1]);
