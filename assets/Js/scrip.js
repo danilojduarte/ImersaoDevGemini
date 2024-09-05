@@ -1,2 +1,2 @@
 
-console.log(dados[1]);
+console.log(dados);
