@@ -1,6 +1,7 @@
 let dados = [
   {
     titulo: "Mr. Robot",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtrrbGQGqhR0xlij_pGeRU8mWVA7MFrckFmQ&s",
     tipo: "Série",
     ano: "2015",
     producao: "Universal Studios",
